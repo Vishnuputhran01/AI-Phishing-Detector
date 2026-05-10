@@ -1,0 +1,9 @@
+url,has_https,url_length,special_chars,suspicious_words,ip_address,label
+"http://secure-login-bank.xyz",0,29,2,1,0,phishing
+"https://www.google.com",1,22,0,0,0,safe
+"http://paypal-verification-alert.com",0,38,2,1,0,phishing
+"https://github.com",1,18,0,0,0,safe
+"http://amaz0n-security-update.net",0,35,2,1,0,phishing
+"https://openai.com",1,18,0,0,0,safe
+"http://192.168.0.1/login",0,26,1,1,1,phishing
+"https://www.microsoft.com",1,27,0,0,0,safe
